@@ -6,7 +6,7 @@ From a real problem, the knowledge developed in the Computer Science course will
 
 The themes are divided into the following classes:
 
-Lesson 1: Introduction to Colab and the LoggiBUD Repository.
+Lesson 1: Introduction to Google Colab and the LoggiBUD Repository.
 
 Lesson 2: Introduction to the Traveling Salesman Problem (TSP).
 
